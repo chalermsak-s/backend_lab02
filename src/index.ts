@@ -1,4 +1,5 @@
-import add, {subtract} from './funtions';
+import {subtract} from './funtions';
+import add from './function2';
 const result = add(1,2) + 0;
 const result2 = subtract(1,2) + 0;
 console.log(result, 'type of result:', typeof result);
