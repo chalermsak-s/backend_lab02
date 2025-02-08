@@ -1,5 +1,5 @@
 let x:number | string = 10;
-x = 'hello';
+x = 7;
 if (typeof x === 'string') {
    console.log('x is a string');
 }else if (typeof x === 'number') {
